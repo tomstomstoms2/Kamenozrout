@@ -1,0 +1,59 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Iterations: 8
+blueAverage: 64.125
+Blue Max: 73
+orangeAverage: 62.625
+Orange Max: 67
+greenAverage: 55.125
+green Max: 62
+redAverage: 58.125
+red Max: 66
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TIME: 2022-10-26 15:46:05.088707
+Iterations: 5
+blueAverage: 61.2
+Blue Max: 74
+orangeAverage: 61.6
+Orange Max: 71
+greenAverage: 60.2
+green Max: 69
+redAverage: 57.0
+red Max: 68
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TIME: 2022-10-26 17:22:15.972489
+Iterations: 3
+blueAverage: 58.333333333333336
+Blue Max: 66
+orangeAverage: 57.666666666666664
+Orange Max: 61
+greenAverage: 65.0
+green Max: 73
+redAverage: 59.0
+red Max: 62
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TIME: 2022-10-26 17:44:35.536875
+Iterations: 132
+blueAverage: 58.583333333333336
+Blue Max: 77
+orangeAverage: 60.84848484848485
+Orange Max: 79
+greenAverage: 59.63636363636363
+green Max: 82
+redAverage: 60.93181818181818
+red Max: 76
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TIME: 2022-10-26 19:03:18.615591
+Iterations: 123
+blueAverage: 58.24390243902439
+Blue Max: 81
+orangeAverage: 62.699186991869915
+Orange Max: 82
+greenAverage: 57.71544715447155
+green Max: 75
+redAverage: 61.34146341463415
+red Max: 81
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
